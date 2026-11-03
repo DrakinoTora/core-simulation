@@ -1,0 +1,11 @@
+ ======================>     TALLY 3: TOTAL FLUX     <======================
+
+ Incoming Energy [0, 0.65)
+   Total Material
+     Flux                                 23.8653 +/- 0.0600732
+ Incoming Energy [0.65, 100000)
+   Total Material
+     Flux                                 124.477 +/- 0.037594
+ Incoming Energy [100000, 2000000)
+   Total Material
+     Flux                                 45.6091 +/- 0.0185156
